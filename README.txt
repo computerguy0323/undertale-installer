@@ -11,3 +11,6 @@
 				       LICENSE OF THE GAME FROM STEAM, PUT
 				       THE UNDERTALE FILES IN THE "cddata"
 				       FOLDER, THEN BURN THE FOLDER TO DISK!
+
+
+				       Run menu.bat to start the installer.
